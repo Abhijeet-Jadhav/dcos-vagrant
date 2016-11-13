@@ -13,3 +13,5 @@ ssh_port: 22
 ssh_user: vagrant
 agent_list: []
 oauth_enabled: 'false'
+check_time: false
+
